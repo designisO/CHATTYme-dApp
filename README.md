@@ -1,6 +1,7 @@
 # CHATTYme Msgr dApp
 
 <img src="https://github.com/designisO/CHATTYme-dApp/blob/main/Screenshot%20(27).png">
+<img src="https://github.com/designisO/CHATTYme-dApp/blob/main/Screenshot%20(28).png">
 
 
 ## Description
